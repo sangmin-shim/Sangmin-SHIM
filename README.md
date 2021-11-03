@@ -2,6 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangmin-SHIM&count_bg=%23477BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!-- Introduction -->
+### Hello ! I'm a Junior Developer and I'm so interested in Java, Python. 
+### We code our dream :)
+
+<br>
+
 <!-- TECH -->
 ## 🧠 Capacity
 
@@ -31,8 +37,9 @@
 | Internship | 2020.5 ~ 6 | Web Development | Zawine France |
 | Prize (3rd) | 2020.10 ~ 11 | Innovative New Data Ideas Competition <br>(Big Data) | GBSA <br>(Gyeonggi-do Business & Science Accelerator) |
 | Internship | 2020.12 ~ 2021.6 | Web Development (ERP & MES) | GAON SOFT |
-| Education | 2021.9 ~ | 2nd year Student | EPSI <br>(L'école d'ingénierie informatique) |
+| **Education** | **2021.9 ~ (Now)** | **2nd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
 
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangmin-SHIM)](https://github.com/Sangmin-SHIM)
 
