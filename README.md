@@ -3,6 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangmin-SHIM&count_bg=%23477BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Introduction -->
+
+
 ### Hello ! I'm a Junior Developer and I'm so interested in Java, Python. 
 ### We code our dream :)
 
@@ -41,8 +43,21 @@
 
 <br>
 
+<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200"/>
+
+```
+2019~2022 
+EPSI de Bordeaux
+```
+
+
+
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangmin-SHIM)](https://github.com/Sangmin-SHIM)
 
+
+<br>
 
 <!-- Contact -->
 ## :mailbox_with_mail: Contact
