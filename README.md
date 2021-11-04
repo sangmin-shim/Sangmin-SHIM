@@ -13,18 +13,26 @@
 <!-- TECH -->
 ## 🧠 Capacity
 
+
+### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Sangmin-SHIM/Dividened_Korea-Python)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+<br>
 
+### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
-
+<br>
+  
+### Database  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+<br>
 
+### Server
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
 
