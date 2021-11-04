@@ -17,16 +17,16 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/Sangmin-SHIM/Dividened_Korea-Python)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)]
+[![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)]
 
-[![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](github.com/Joowon0220/TODO-List)
-[![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=flat-square&logo=Apache%20Groovy&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)]
+[![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=flat-square&logo=Apache%20Groovy&logoColor=white)]
 
 <br>
 
