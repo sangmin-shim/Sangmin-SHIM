@@ -22,11 +22,11 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)]
-[![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)]
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
+![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
-[![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)]
-[![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=flat-square&logo=Apache%20Groovy&logoColor=white)]
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=flat-square&logo=Apache%20Groovy&logoColor=white)
 
 <br>
 
