@@ -52,7 +52,7 @@
 
 <br>
 
-<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200"/>
+<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
 
 ```
 2019~2022 
