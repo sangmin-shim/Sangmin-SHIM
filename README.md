@@ -46,8 +46,9 @@
 | Education | 2019.9 ~ 2020.5 | 1st year Student | EPSI <br>(L'école d'ingénierie informatique) |
 | Internship | 2020.5 ~ 6 | Web Development | Zawine France |
 | Prize (3rd) | 2020.10 ~ 11 | Innovative New Data Ideas Competition <br>(Big Data) | GBSA <br>(Gyeonggi-do Business & Science Accelerator) |
-| Internship | 2020.12 ~ 2021.6 | Web Development (ERP & MES) | GAON SOFT |
+| JOB (CDD) | 2020.12 ~ 2021.6 | Web Development (ERP & MES) | GAON SOFT |
 | **Education** | **2021.9 ~ (Now)** | **2nd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
+| Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
 
 <br>
 
