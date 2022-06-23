@@ -35,6 +35,7 @@
 ### Server
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Apache](https://img.shields.io/badge/Tomcat-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-800080?style=for-the-badge&logo=Heroku%20Groovy&logoColor=white)
 
 <br>
 
