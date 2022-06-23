@@ -49,6 +49,7 @@
 | JOB (CDD) | 2020.12 ~ 2021.6 | Web Development (ERP & MES) | GAON SOFT |
 | **Education** | **2021.9 ~ (Now)** | **2nd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
 | Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
+| Internship | 2022.4 ~ 7 | Web Development (Django & Python) | jestocke. |
 
 <br>
 
