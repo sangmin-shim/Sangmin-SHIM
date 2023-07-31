@@ -11,7 +11,6 @@
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Sangmin-SHIM/Dividened_Korea-Python)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Sangmin-SHIM/ZawineFrance-PHP)
 <br>
 
 ### Frontend
@@ -45,7 +44,7 @@
 | **Education** | **2021.9 ~ (Now)** | **2nd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
 | Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
 | Internship | 2022.4 ~ 7 | Web Development (Django & Python) | jestocke. |
-| Alternance | 2022.8 ~   | Web Development (Django & Python) | jestocke. |
+| Alternance | 2022.8 ~ 2023.7  | Web Development (Django & Python) | jestocke. |
 <br>
 
 <img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
