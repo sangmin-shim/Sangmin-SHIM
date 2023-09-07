@@ -41,10 +41,10 @@
 | Internship | 2020.5 ~ 6 | Web Development | Zawine France |
 | Prize (3rd) | 2020.10 ~ 11 | Innovative New Data Ideas Competition <br>(Big Data) | GBSA <br>(Gyeonggi-do Business & Science Accelerator) |
 | JOB (CDD) | 2020.12 ~ 2021.6 | Web Development (ERP & MES) | GAON SOFT |
-| **Education** | **2021.9 ~ (Now)** | **2nd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
+| **Education** | **2021.9 ~ (Now)** | **4rd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
 | Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
 | Internship | 2022.4 ~ 7 | Web Development (Django & Python) | jestocke. |
-| Alternance | 2022.8 ~   | Web Development (Django & Python) | jestocke. |
+| Alternance | 2022.8 ~  2023.7 | Web Development (Django & Python) | jestocke. |
 <br>
 
 <img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
