@@ -45,6 +45,8 @@
 | Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
 | Internship | 2022.4 ~ 7 | Web Development (Django & Python) | jestocke. |
 | Alternance | 2022.8 ~  2023.7 | Web Development (Django & Python) | jestocke. |
+| Alternance | 2023.8 ~   | Web Development (Angular & Python) | Knock Knock |
+
 <br>
 
 <img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
