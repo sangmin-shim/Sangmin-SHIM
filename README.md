@@ -44,15 +44,15 @@
 | **Education** | **2021.9 ~ (Now)** | **4rd year Student** | **EPSI <br>(L'école d'ingénierie informatique)** |
 | Internship | 2022.1 ~ 2 | Web Development (WordPress & Python) | Ilaria Academy |
 | Internship | 2022.4 ~ 7 | Web Development (Django & Python) | jestocke. |
-| Alternance | 2022.8 ~  2023.7 | Web Development (Django & Python) | jestocke. |
-| Alternance | 2023.8 ~   | Web Development (Angular & Python) | Knock Knock |
+| Alternance | 2022.8 ~  2023.6 | Web Development (Django & Python) | jestocke. |
+| Alternance | 2023.9 ~   | Web Development (Angular & Python) | Knock Knock |
 
 <br>
 
 <img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
 
 ```
-2019~2022 
+2019~2025 
 EPSI de Bordeaux
 ```
 
