@@ -1,7 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangmin-SHIM&count_bg=%23477BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-
 <!-- TECH -->
 ## 🧠 Capacity
 
@@ -46,8 +42,6 @@
 | Alternance | 2023.9 ~   | Web Development (Angular & Python) | Knock Knock |
 
 <br>
-
-<img src="https://www.epsi.fr/wp-content/uploads/2018/03/logomonogramme.jpg" alt="drawing" width="200" height="100%"/>
 
 ```
 2019~2025 
